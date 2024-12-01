@@ -1,6 +1,6 @@
 # Miniature_DC_current_controller
 This is a DC current controller which can control currents in the range of 0-3A. These are the files and the report, for the course Electronic Design Lab
-<<<<<<< HEAD
+
 
 User manual:-  The document contains detailed info specifications, terminologies definitions, and instructions to use for the user along with additional instructions the user should take care of.
 
@@ -15,5 +15,3 @@ Microcontroller_code:- The directory contains all code files of STM32 uC. The co
 Test results:- The document includes test methodologies for the basic circuit, microcontroller integration, CC-CV switching and UART interfacing and the results of each methodology.
 
 Frontend:- This contains python code for the web based GUI for UART control.
-=======
->>>>>>> 72c516bb3182307597d8fee2e2a38ca45b857690
